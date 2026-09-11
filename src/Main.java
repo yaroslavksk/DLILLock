@@ -1,5 +1,6 @@
-import java.util.concurrent.*;
-import java.util.concurrent.locks.*;
+import java.util.concurrent.CyclicBarrier;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class Main {
 
